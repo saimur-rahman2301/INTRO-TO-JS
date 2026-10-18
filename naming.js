@@ -24,7 +24,7 @@ const HerPhoneNumber = 1234567890; // This is valid. Pascal case
 // 5. Variable name can contain letters, numbers, underscore and dollar sign
 let _money = '100k';
 console.log(_money);
-let $bankbalance="500k";
+let $bankbalance = "500k";
 console.log($bankbalance);
 
 // 6. Case sensitive
