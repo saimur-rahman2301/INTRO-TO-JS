@@ -51,5 +51,6 @@ const totalNumber = number1 + number2
 console.log(totalNumber)
 const totalTwoDigit = totalNumber.toFixed(2)
 console.log(totalTwoDigit)
+console.log(typeof totalTwoDigit)
 const totalTwoDigitFloat = parseFloat(totalTwoDigit)
 console.log(totalTwoDigitFloat)
